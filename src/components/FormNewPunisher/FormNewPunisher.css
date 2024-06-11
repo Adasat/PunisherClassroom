@@ -1,0 +1,12 @@
+
+#closeBtn{
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+#closeBtn:hover{
+    color: red
+}

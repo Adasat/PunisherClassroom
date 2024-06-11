@@ -1,0 +1,13 @@
+#header{
+    background-color: chocolate;
+    width: 100vw;
+    box-sizing: 0;
+    margin: 0;
+}
+
+.title {
+    color: rgb(61, 34, 38);
+    text-decoration: double;
+    text-align: center;
+    padding: 10px;
+}

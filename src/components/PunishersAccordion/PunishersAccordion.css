@@ -1,0 +1,18 @@
+details{
+    background-color: bisque;
+    padding: 10px;
+    max-width: 50vw;
+    text-align: start;
+    min-width: 50vw;
+    border-radius: 12px;
+}
+
+details summary::marker{
+    content: "💀 ";
+    color: indigo;
+        font-size: 1.5rem;
+}
+
+details[open] summary::marker {
+  content: "😈 ";
+}

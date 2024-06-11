@@ -1,0 +1,9 @@
+.formContainer{
+    display: flex;
+    width: 100vw;
+    background-color: chartreuse;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
