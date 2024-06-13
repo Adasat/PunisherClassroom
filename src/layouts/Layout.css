@@ -1,0 +1,10 @@
+.headerFooter {
+    width: 100%;
+    background-color: aqua;
+    color: black;
+}
+
+section{
+    flex: 1;
+    background-color: rgba(137, 43, 226, 0.24);
+}

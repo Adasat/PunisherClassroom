@@ -1,0 +1,22 @@
+#notFound{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/public/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 40px;
+    color: white
+
+}
+
+.link {
+    color: chartreuse;
+}
+
+#enConstruccion{
+    width: 20vw;
+}
